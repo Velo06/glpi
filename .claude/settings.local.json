@@ -1,0 +1,7 @@
+{
+  "permissions": {
+    "allow": [
+      "Bash(git -C /home/beriaka/Documents/GitHub/glpi log --oneline -5)"
+    ]
+  }
+}
